@@ -45,9 +45,11 @@ export LDFLAGS="$LDFLAGS -Wl,-rpath,/usr/lib/firefox"
 
 make
 paxmark -msp dist/bin/xpcshell
+### root
 # make install
 # paxmark -mp /usr/lib/firefox/plugin-container
 # paxmark -mp /usr/lib/firefox/firefox
+### debug
 # setfattr -n user.pax.flags -v "emr" dist/bin/firefox
 # ../firefox/mach run --debug
 
