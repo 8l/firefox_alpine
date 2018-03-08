@@ -351,34 +351,6 @@
  
    return rv;
  }
---- /dev/null
-+++ new/toolkit/themes/linux/mozapps/downloads/downloadIcon.png
-@@ -0,0 +1,24 @@
-+‰PNG
-+
-+   IHDR   @   @   ªiqÞ  ÁIDATxä–ähÇellq]8”yvã¦3gû®çÖ¶mÛ¶í12¶=“ÎZÂ»÷O©ôLzQ<¥ê_ßÓï{ýÒÑ3Dô¿V÷Àó¬¬>¬×YA!Ø}CM<óoçãáY½R«šqü†\Öaßh[g6™3vê©åw¡FÔ‚IÀ?4ãÄM=¸²Ó8¹Õ‚`#†Ü??s½veÝ]š¼ªÃPG4’:¬žÔ!µ¤üYMÊï•¤üRJÚÜZc×•ÈRÔ
-+¦Gð„= EØˆiœC/ïí¯F[‘C'ó.£­n‡÷ôõÀ?ïß@
-+¯òðê<ü¯¥$ÿXLò·ù¤Í¨4R‹oÃrùªûƒ’W´8i,æëX°…/¤-o5Pëå0ßjtc\v(ì:J¶ù‰û/wûC¨ç=ßÄv[—þ€¡>¸ìíá‡7:´Ž#MÞ×ÉÃ—‘òS1)ßå“üU.ÉŸgÑôm:°?ý¡+á*RRªGzÕ}ÛVÂ•´ð„iÇ‡¦ŠxùÃ]»õOšÛ/æCÈ©)à¼¡«¢ß«ãêìúÊ¶(9‡¶¸	9¨z=¸¼ÃŒ]öu¤ªÆ	ˆÉˆÒ¤-$ÇÃg“üIùÇ˜`À:|`N‰ÛZpÌ y…ÛÉ£öq|³iÙêîË¸Ë—Ùõèu,÷6…ÔÇ†Ÿ_xÂþ€¡àÀ	M–Âÿ¼2¨†Ôp¥ŠRcg”2Ëïo\1II©Ôï‹4X‡ï.±”ïùJ) ùûZp¸ÄÁvÙ9Ž#? \ìáüQl“¹®9b±¢$‹½6bèåá9†TÙò€´95°ÅZ¡7~CÆ5ZÊàÚØe÷{yÜðÐCÊ,»M¾1¼Qð*õÿ,Õ{~Ò-ù‹\’¿ÌaåÒ‚­ä°å/ry¬ýÎ÷ðˆEM³…P¹¾àÑ+QôÅ•Í(4­õða#&ü\æÝþî-°¸ÕÄ=„á•ŸK»?qsIZ*I<¼ä»LþáyžKÐ?¾Ø”“3HÖ2hÁÞfÌ5În²s’–Nþq%	yIc>9š¸g“ñ°Ô,|ä$j½|‰)=¥G(4¹”UBGÙFì¡Öá»<„”ß+ìá•
-+íá'mk$éÓL’µ4’?¾F’ÿ2I^¤iª=¡i›ku)p• {à]$6;ï¿JÓ7×yyŽIqõ×¿bûÓÃ£çËßgÚõ•÷ Øˆ!çáÝ×HÅ½AÚ‚zCþ¡ˆ~ÝÙ—/‰áeÿÑE
-+Î3®\÷¼†Ê3¤.’ôþ¯¶•}GÍµ|/Xh´n ¶'µq¬xý‘<r`QÛÂö^.ŸÄ=œßïýºz}©6»Ú°_wŸe‘¬¥“œ”J’ÿŠ^7vži}ä‡ÈÎSÍK“†gÒÛgIzëõäÕÕ
-+Ï1vœjy$¿ƒùÐ°Ãa$6ï%1ŸdóÍá[l^ýÀ`ÇÇoëÎ{?%Knš¾£IÇ}Òÿ«L«??ñý#óL\öâÌ=öSôZ^dÐ´Õåº/%Ãìç;gõeùRÒÍi«+täžŽ¯ø‹³Ðqãâx¹'Èî­ÛŠºœ°ô© Œ>(ÙWf8‡™™“£033sŒ‡æE‡WšÎ×Ÿ-w-ýõÍ73¿™›1é|
-+ŒòH|Þéý!ØðUãÿÿg¨|ùÿßáÿ`ÆSªªÐ4mÛ¯™¦Ù Á†1äx
-+ýƒù’Á	Ï²^8ÑÆ.=l$Þ[§†.ÌØCç¥íw;3…¥ûr‰ãWrc‘ƒ\ÁyyÝå7è…¡Ëò6>Äþn|isl9«u6nÔÌšÙYª™•!eFšj¦¤H×OrK5t$Í-Ç3È›¬äÕ2?7KÊ<>!¶ákàzxyo¹ÈC‚G=„ý?Ý®—yowxiœˆêcš6i& ßÜ)³3ä›ž&ßä$)ãûHõ’ôc‚šZ{Í—scÀ€-ñmLÓ†¼©€Áò¸¡S£(…}5kZŸ3‘ëåuæsfË»Œ`…¦gŠ¼^½ÿzÑ_ôÍÁmûÐ|¾Ü_,@×õ!+qgøy9òÍÉRÎ²©ó¨é¯Œî%å·.’ˆ“ôe„VìHÆÁ€üŠƒj¼f/kjŠð§n‘2-EÊ”$m:m9>erŠ³â æááSÀOvó7±˜e~š{‡S&W«öG9¯®Ì:ùIý‰GpK1îß_æÅ,Ëáß¨|s³¼5ÖŒ4àÊ¼CU’JümŒä/"ôÁ‚xXÁØ™*(cyYãúhÓ)=qVØˆ!¹÷âUË†`WÜe¼€G¯SñØT|lÌÂïí/pýúuÝŠœ­ð3÷½oJ²8¼» (ÒƒVòÛà³«4ôË«6°‚¯Ðc+-ÝüJé&™ÏM't±|¶BLÄ‡sîŸùáã{lp;ð’«¼Ã†¯¶Ï>Ä ¤z›‚ëÓ°K'¤@-•¼SàÆþºeYïSçe7©¿bx(ÒÇXÆ…>¹BµÍWl0`_Û·åïâü6‰±â´é˜Fâ[þ.Fˆã¬%<<|`‘£r?¹¸½ªõG_ÔÀ«“ÈÇ6|Å{œùr±Áó–oš;¼2¦¯bøŽ}9’‚WIâá¥†KäŸ·À€¼Y%7GHFhÓ•ðÀY¶óˆq0ù—öTå%ŽËÍaÊsOõ UÜ9&±[µ‘GÏSa‹}¬^:É6ú£>$øÒ
-+…Âà¶#f"^	u»ïý<øW*Lò§<|ã%’øw¹ÖíÉ°‚oÝ™ŠIMWræ!d÷.¶Qã
-+µqî½xäCÞûeçÞz=_j‰8ùÉÜ-6|ˆyxñ=:à\WadpCÖC=¤üê~âË<¼T^Æðþ‹Xœ0Î„µ‘`À
-+¾À¢„!ñ*ÒûX|ÂvN¾ýÈ9sÕËÃ‡ÚÈÈBnëèÞ<b`‘;B§V™ÿ¼òïw`šæS×®]{~Ïy£5¸6mÈ?òð_GÝgž?ô¤ÆË¥áwŸÈµ"³üîãÙÖÏçÅé­ó$½qŽòYÖ9
-+plçÜG,07fF‚`s-‰ùÏƒ~`DÜ«ñ( Š<ËÏBüž6­ìµê~ŒØuß…í¦…	«}g*z.¢‡ƒÜ"çáÏ]ÕBíÛú¢S#VmÃy{«qjØjßÖEìAxä‚ûð¼îôƒþløªñ¢€ø>ýƒýz rt[ \xþógmÆù3ZÛÞgû½k›kÛ»1ñØ\Û¶mk²[[Ù¾Ý'¨äfV¥ËªêÊ©îþºsÎrè%›>|ø°Û£Gþß¢ 3å¨F=±æ»îcüøãð`µZŠÑÒn·÷w8¯effŽ¢ 3å¨F=1æ;ï£‡¬¬¬_`c§Q³ì–>o9.µb}P?Yÿ¸~Ò’ÇíúëôyÅriÔt«…z¨7âêôo§_j7Âö ~šé1)Gµo›¾þ?Ö¾L2Âà#p‚8µ8Õbà“Ïö½þÿ¹aõ’!ïmao@o
-+‡‘}R®=ÖhG¢OÜo,¨F;žÇGlÛŽðÙ@>ad@ËQ³íÉH{€Ó˜ÓXBHQéØüJ>~%›’nó£¦š-dÈFý,›E2—«õá…æ¸G  šd˜9@½‰ÞŽÞõ‰Þööº÷³~Í[`Ù²eÐnXFŒ·ÆígÒÓÓûõ}'ó—dÃËÛKr€³`tz#Djˆ”Z|„ùð+éLø•d2ôù—þ²ßçuÇ%öXj#¬Y³¦Y«A„³D‚}TÈrœÊÔC½	þ°Wéaà‡ù0èãB´è5ÌSŽj8ÿ)^òSÌØrVÂ†`ÝºuÐ~ˆ“jÚ8Ïddd¼&é
-+pIé Jv²È«Ú5[¡ z+t~­8åàds€“LƒöçÈú~æ ]€lð§e°k×.þE5;ÅÕ¨‡zŸæs+6@aÍf¼|;SŽ{¦×3O»>×­ÙÐ\Ø³gH‡äàcZëÜÏ¸Ýî/vtE)¥fŸ’UëBõ†Ã‡ jÍÐù¶@ûN|€Ð@6%H†lÄ7tA‘Ê€Kp‘&FŽZ§N¢Àójàé2ô%”zh(h<åØT¬Ú5ëàˆ’\x>ˆ¹ÝÌsèiW‚ÇÕhvÕNP)a^1´”>Ñf°šHïÙ ¯×ûE£Ž¾ Ÿš|j!ðiE°fÇYX»ë¬ÝqÖl?¶Â½ í‚ƒ$s ¡lzÙˆo¨^)¸Ä¼à„ßÝ×®]£`g^‰Ëø h¨Ö&xÊQzVm9ëvœÁGóPÐ™r1~ÉS÷—®:ªþh}À'yèL¹°7Æíg<Ï+òßø´B§•`”ÃæW`ëkW ÷û›€GÌË ’Îig}€Ùˆ—v³D
-+#ðJ;üaôfÀÿrÂŸÆí  3æ6±šH¡i7û“½Ê
-+›vŸÇ½—<,¶í¿›öž§ZØ[ëðö¨§ý³œAÝ¯£
-+fà9²Ÿzb÷³.—«ï ÏÊ/ð¡Ëc”ÁÎ£·¡ßç»@œ”bÁbu&ð
-+ðÒ…0ð%×2d#~à«Þ¼\‡=V¨­­…?ÝbU;SŽj¼Lƒ^õÕá}Qÿ§Ñ[<æ°fêøß<ÍÇÌº]×(èL9ª%øÈ"ZL7äë…?ÔÜçñòõ0Ä©¥ NÎ±Æà±2±	„ž®ûÓùôdÈF<å¨ÆËL –[A¬pÄ„s6¼¼1äÖá’wß§ž<²‘Ï¨w?Õ‹°‡õ¢á™÷jò1ßŸ°Ùl?õûý>š[^®ùíò{â”b¼|^ž~õ} V9Ù MŸ¼{NÉ/§^2dcý‡“rË…^ž{b©(x™9ô;Ç š^¾{LÊ{¢ÿ =õðdé!ÑRð4½À|îS|ó¡Ýhh/zöÉ¼'ÁÓ N§óyyyió¬åÚß|±ö¬0 ¦¶Ij^°IŠ?(ô)ªù^õÙ¹Æb-õPoØ%ø¹ºBíÈ7ÊÎ
-+=|µMÔ–`c¡‡·väg©ö<žzÉ}q_Ìö“¡ýt¦\]>n½JNNNó¢¢¢^U_µc¦0•AÎ®À‘àQø</ž÷bìfÆLJp=îûRœ‚#!€÷$\á
-+8‡àÝÖ'ªÓÌ™—5KòÄŸ©î®¢jºúÍÌÑÑŸóóóÂfŽ5¿òè‡ó×áÄD£ ¿TMªU«ªa3Ç>>óÓyþ­j~yy©œœœúÊÍÍÍÅ³³³±¾9EÚGÁÓÓS|ËâOOO}Ùˆb„ÍkÿïW®ùææ¦ª_PÂ™™™žž–©©)™œœ”‰‰	-DxyyYÅ×¯¤ñ×××ŽGöwÌÖy¼?K¬£ž˜>ŸŠŒš¨Ž'“‘¡¡!ÙÜÜ+0*Ç???WH®Hz7B|“<ñY+b)&>ø–Å7]ƒÉŒZØöþ]ûüü”ƒƒ’—ÑÑQ–ÁÁAéïï—½½½ FåxZ„b!‚ê?)6ÖŸ"æÜß,Þ
-+Ž?ÂNŽñ)ãñ—÷÷wâ"Ño‚™ñQ+=Oâˆ?DÐÇÇ‡ìîî’¼H__Ÿ¬¬¬D0*ÇëÎˆ(Ò¯0•³³3äl[Ç·ˆÿúúB’s#P)O¬»»;Z–Ø¢¿ýÌgÆFmóóó±¿íý îèêêªôôôÐ1ŒÊñºsbÚ„‚ôÐqÕÇö×ðÍâmd‰3.åßÞÞdkkÛ®(ÍûàÄ§ $?>>nÉ;ißpçs …‹m—pÕ–rÀ¶y®øfñæcÅgŒl\ÆÛ:ØØØ0læ#÷Z@{$âî“<ÛÄO^#I\jµštwwËòòrj®­­E´:>>&q®fÓwÂZoo¯à[Ä[\ÛÍ(å½øúNÖ××ÝÞÞºøÈç¿"–<Û•€;;;.( ù®®.
-+’:„Ô7 @ˆ„­hØÌa#Î”B”7Æ7'&;ÿ××W„Ík)þÛÏˆ!É{'>ÉHòœáÃÃCêgˆ9ÖðÉQ)¯w^:;;sy|ŠxŸÅ.ŒŸ|ºººªê¡Zòv÷IÞ‚ëgæÜ‘‹‹‹ª¶GØÑÑ!Iµ··s†„øñød°\ëá11¦u“|úQ˜‡œýýý€>Ñvˆ9ðèy¶=•+{½¿¿¯looKKK‘1Ö"ÆØÌ±Vû/<ñQ>ßxj¼ÿþÙ…·¨    IEND®B`‚
-\ No newline at end of file
 --- org/tools/profiler/core/platform-linux-android.cpp
 +++ new/tools/profiler/core/platform-linux-android.cpp
 @@ -67,6 +67,8 @@
